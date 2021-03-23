@@ -1,5 +1,5 @@
 {
-    "name": "nimut/phpunit-merger",
+    "name": "pi-george/phpunit-merger",
     "description": "Merge multiple PHPUnit reports into one file",
     "keywords": [
         "PHPUnit",
@@ -26,7 +26,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.8 <7.5",
+        "php": ">=7.0.8",
         "ext-dom": "*",
         "ext-json": "*",
         "ext-simplexml": "*",
